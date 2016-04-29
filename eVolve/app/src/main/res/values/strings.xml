@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eVolve</string>
+    <string name="title">About Amblyopia</string>
+    <string name="key_facts">Key Facts</string>
+    <string name="how_common">Amblyopia is the most common cause of visual impairment among children, affecting approximately 2 to 3 out of every 100 children. Unless it is successfully treated in early childhood, amblyopia usually persists into adulthood. It is also the most common cause of monocular (one eye) visual impairment among young and middle-aged adults.</string>
+    <string name="about">Amblyopia can result from any condition that prevents the eye from focusing clearly. Amblyopia can be caused by the misalignment of the two eyes—a condition called strabismus. With strabismus, the eyes can cross in (esotropia) or turn out (exotropia). Occasionally, amblyopia is caused by a clouding of the front part of the eye, a condition called cataract.
+
+A common cause of amblyopia is the inability of one eye to focus as well as the other one. Amblyopia can occur when one eye is more nearsighted, more farsighted, or has more astigmatism. These terms refer to the ability of the eye to focus light on the retina. Farsightedness, or hyperopia, occurs when the distance from the front to the back of the eye is too short. Eyes that are farsighted tend to focus better at a distance but have more difficulty focusing on near objects. Nearsightedness, or myopia, occurs when the eye is too long from front to back. Eyes with nearsightedness tend to focus better on near objects. Eyes with astigmatism have difficulty focusing on far and near objects because of their irregular shape.</string>
+    <string name="fact_1">- Amblyopia affects 2 to 3 out of every 100 children</string>
+    <string name="fact_2">- If caught early, 80% of cases can be reversed</string>
+</resources>
