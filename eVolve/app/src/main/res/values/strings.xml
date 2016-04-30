@@ -1,11 +1,21 @@
 <resources>
     <string name="app_name">eVolve</string>
-    <string name="title">About Amblyopia</string>
+    <string name="title">About Eye Diseases</string>
     <string name="key_facts">Key Facts</string>
-    <string name="how_common">Amblyopia is the most common cause of visual impairment among children, affecting approximately 2 to 3 out of every 100 children. Unless it is successfully treated in early childhood, amblyopia usually persists into adulthood. It is also the most common cause of monocular (one eye) visual impairment among young and middle-aged adults.</string>
-    <string name="about">Amblyopia can result from any condition that prevents the eye from focusing clearly. Amblyopia can be caused by the misalignment of the two eyes—a condition called strabismus. With strabismus, the eyes can cross in (esotropia) or turn out (exotropia). Occasionally, amblyopia is caused by a clouding of the front part of the eye, a condition called cataract.
-
-A common cause of amblyopia is the inability of one eye to focus as well as the other one. Amblyopia can occur when one eye is more nearsighted, more farsighted, or has more astigmatism. These terms refer to the ability of the eye to focus light on the retina. Farsightedness, or hyperopia, occurs when the distance from the front to the back of the eye is too short. Eyes that are farsighted tend to focus better at a distance but have more difficulty focusing on near objects. Nearsightedness, or myopia, occurs when the eye is too long from front to back. Eyes with nearsightedness tend to focus better on near objects. Eyes with astigmatism have difficulty focusing on far and near objects because of their irregular shape.</string>
-    <string name="fact_1">- Amblyopia affects 2 to 3 out of every 100 children</string>
-    <string name="fact_2">- If caught early, 80% of cases can be reversed</string>
+    <string name="how_common">Up to 4% of all children in the world have conditions that will result in serious vision problems. Currently,
+        over 38 million children are affected by an eye disease. However, 80% of serious cases can be reversed if detected at an early age.</string>
+    <string name="about">Critical issues such as lazy eye, uneven vision, astigmatism and even cancer, can easily go
+        unnoticed by parents and other adults, yet with early enough detection, treatment can almost
+        always be successful and future vision loss can be avoided. Vision problems can affect a child’s
+        academic performance in school (as well as their self-esteem). If children can get better vision
+        care, they can increase their literacy. It has been estimated that” … a 1% rise in literacy scores
+        translates into a 2.5% relative rise in labor productivity and a 1.5% increase in gross domestic
+        product (GDP) per person” International Adult Literacy Survey Scores, Human Capital and Growth Across Fourteen
+        OECD Countries (UofOttawa 2004).
+        Today’s children must have necessary vision skills to perform successfully in school and in the
+        workplace when they get older. When a population increases its literacy the economy becomes stronger.</string>
+    <string name="fact_1">- One out of every four children has a vision problem.</string>
+    <string name="fact_2">- 60% of students identified as problem learners in school have undetected vision problems.</string>
+    <string name="fact_3">- In the US, 48% of parents with children under 12 have never taken their child to an eye care professional.</string>
+    <string name="fact_4">- 80% of vision problem cases can be reversed if detected at an early age.</string>
 </resources>
