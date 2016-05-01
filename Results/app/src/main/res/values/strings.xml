@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Results</string>
+    <string name="find">find doctors</string>
+    <string name="learn">learn more</string>
+    <string name="save">save results</string>
+</resources>
