@@ -1,7 +1,6 @@
 package com.example.dalia.progressbar;
 
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.widget.ProgressBar;
 import android.util.Log;
@@ -53,8 +52,6 @@ public class MainActivity extends AppCompatActivity {
     public void onContinue() {
         Log.d("messageFinal", "Loading");
     }
-
-
 }
 
 

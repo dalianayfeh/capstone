@@ -89,30 +89,62 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageButton2"
-        android:src="@drawable/ic_action_name"
+        android:src="@mipmap/ic_back"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:background="#65c5b1"
-        android:tint="#f7b615" />
+        android:background="#65c5b1" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView"
         android:src="@mipmap/ic_save"
-        android:layout_centerVertical="true"
+        android:layout_below="@+id/textView3"
         android:layout_alignRight="@+id/button3"
-        android:layout_alignEnd="@+id/button3"
-        android:backgroundTint="#fffff" />
+        android:layout_alignEnd="@+id/button3" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView2"
         android:src="@mipmap/ic_location"
-        android:layout_alignTop="@+id/imageView"
+        android:layout_below="@+id/textView"
         android:layout_alignLeft="@+id/button"
         android:layout_alignStart="@+id/button" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/barrinha"
+        android:indeterminate="false"
+        android:layout_below="@+id/imageButton2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="57dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/high_risk_desc"
+        android:id="@+id/textView4"
+        android:layout_marginBottom="36dp"
+        android:layout_above="@+id/button"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button"
+        android:paddingTop="15dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/high_risk"
+        android:id="@+id/textView5"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/textView4"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

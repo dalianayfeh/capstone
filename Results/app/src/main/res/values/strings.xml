@@ -3,4 +3,6 @@
     <string name="find">find doctors</string>
     <string name="learn">learn more</string>
     <string name="save">save results</string>
+    <string name="high_risk">HIGH</string>
+    <string name="high_risk_desc">There is a high chance your child is at risk of an eye disease. We recommend you see an eye doctor for further assessment.</string>
 </resources>
